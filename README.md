@@ -7,3 +7,6 @@ Features:
 Technology Used: 
 Front-End: React.js, JavaScript, ES6, HTML, CSS, React Router 
 Back-End: Node js, Express js, MongoDB, cloudnary
+
+
+![Book-Shop](https://user-images.githubusercontent.com/74599998/178243534-b7a4a277-a9ca-40b4-9483-528474e87002.png)
